@@ -1,0 +1,6 @@
+[submodule "kinds/cat"]
+	path = kinds/cat
+	url = https://github.com/kaunio/cat.git
+[submodule "kinds/dog"]
+	path = kinds/dog
+	url = https://github.com/kaunio/dog.git
